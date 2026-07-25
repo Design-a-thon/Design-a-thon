@@ -1,43 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Design-a-thon</title>
-  <link rel="icon" href="../assets/images/favicon/favicon.png">
-
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Design-a-thon</title>
+    <link rel="icon" href="../assets/images/favicon/favicon.png">
+    <link rel="stylesheet" href="style.css">
 </head>
-
-<button id="back-to-top" onclick="scrollToTop()">Back to Top</button>
-
 <body>
-  <h1>Design-a-thon Ticket Tally</h1>
+    <div class="navbar">
+        <div id="first">
+            <img id="favicon" src="../assets/images/favicon/favicon.png">
+        </div>
 
-  <div class="container">
-    <div class="refresh" id="last-updated">Last Updated: Unknown</div>
+        <button id="menu-button">
+            ☰
+        </button>
+        <div id="menu" class="none">
+            <div id="links-left">
+                <a class="link" href="home.html">Home</a>
+                <a class="link" href="event.html">Events</a>
+                <a class="link" href="event.html">Shops</a>
+                <a class="link" href="../ticket-tally/index.html">Ticket Tally</a>
+            </div>
+            <div id="links-right">
+                <a class="link" href="submit.html">Submit</a>
+                <a class="link" href="submit.html">Register</a>
+                <a class="link" href="submit.html">Login</a>
+            </div>
+        </div>
 
-    <div class="quickfind">
-      <input
-          type="text"
-          id="user-search"
-          placeholder="Quick Find (Enter Username without @)"
-      >
-      <button onclick="goToUser()">Go</button>
     </div>
 
-    <table>
-      <thead>
-        <tr>
-          <th class = "user">User</th>
-          <th class="ticket">Tickets</th>
-        </tr>
-      </thead>
-      <tbody id="leaderboard"></tbody>
-    </table>
-    
-  </div>
 
-  <script src="script.js"></script>
-</body>
+    <button id="back-to-top" onclick="scrollToTop()">Back to Top</button>
+
+    <h1>Design-a-thon Ticket Tally</h1>
+    <div class="container">
+        <div class="refresh" id="last-updated">Last Updated: Unknown</div>
+        <div class="quickfind">
+            <input
+                type="text"
+                id="user-search"
+                placeholder="Quick Find (Enter Username without @)"
+            >
+            <button onclick="goToUser()">Go</button>
+        </div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th class = "user">User</th>
+                    <th class="ticket">Tickets</th>
+                </tr>
+            </thead>
+            <tbody id="leaderboard"></tbody>
+        </table>
+      
+    </div>
+
+  </body>
+<script src="script.js"></script>
 </html>
