@@ -81,25 +81,20 @@ body {
         display: block;
     }
 
+    #menu-button:hover {
+        color: #ccc2ff;
+    }
+
     #menu {
         display: none;
-
         position: absolute;
         top: 60px;
         right: 0;
-
         width: 220px;
-
         background: #3E3E4B;
-
         flex-direction: column;
         align-items: center;
-
         z-index: 1000;
-    }
-
-    #menu.active {
-        display: flex;
     }
 
     #links-left,
@@ -112,6 +107,10 @@ body {
     .link {
         width: 80%;
         text-align: center;
+    }
+
+    #menu.active {
+        display: flex;
     }
 }
 

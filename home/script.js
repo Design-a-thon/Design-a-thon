@@ -1,3 +1,5 @@
+console.log("script loaded");
+
 const menuButton = document.getElementById("menu-button");
 const menu = document.getElementById("menu");
 
