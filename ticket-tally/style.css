@@ -121,8 +121,7 @@ body {
 h1 {
     text-align: center;
     margin-bottom: 24px;
-    font-size: 3rem;
-    font-weight: 800;
+    font-size: clamp(30px, 5vw, 80px);
     color: #17112f;
 }
 
