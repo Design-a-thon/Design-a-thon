@@ -79,6 +79,12 @@ body {
     text-underline-offset: 6px;
 }
 
+#current-link {
+    color: #D5D6E9;
+    text-decoration: underline;
+    text-underline-offset: 6px;
+}
+
 @media (max-width: 900px) {
 
     #menu-button {
