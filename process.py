@@ -29,7 +29,7 @@ for user in usernames:
     ticket_balance[user] = START_TICKETS
 
 cleaned_transactions = []
-
+bad_usernames = []
 
 def normalize_username(name: str) -> str:
     #Account for additional space at end of username
@@ -49,6 +49,7 @@ def tally(row):
 
     #Print out bad usernames
     if (name not in usernames):
+        bad_usernames.append(name)
         print(name)
         return
 
@@ -87,10 +88,12 @@ def transact(row):
     #Print out bad usernames
     if (buyer not in usernames):
         print(buyer)
+        bad_usernames.append(buyer)
         return
     
     if (seller not in usernames):
         print(seller)
+        bad_usernames.append(seller)
         return
 
 
@@ -113,6 +116,12 @@ formatted_time = time.strftime("%Y-%m-%d %H:%M:%S")
 with open('data/ticket_balance.txt', 'w') as f:
     f.write(f'Last Updated: {formatted_time}\n\n')
     for line in final:
+        f.write(line)
+        f.write('\n')
+
+with open('data/bad_usernames.txt', 'w') as f:
+    f.write(f'Last Updated: {formatted_time}\n\n')
+    for line in bad_usernames:
         f.write(line)
         f.write('\n')
 
