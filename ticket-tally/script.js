@@ -1,3 +1,10 @@
+const menuButton = document.getElementById("menu-button");
+const menu = document.getElementById("menu");
+
+menuButton.addEventListener("click", () => {
+    menu.classList.toggle("active");
+});
+
 async function loadLeaderboard() {
   const res = await fetch("../data/ticket_balance.json");
   const data = await res.json();
