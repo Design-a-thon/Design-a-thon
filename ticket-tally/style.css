@@ -129,6 +129,7 @@ h1 {
     margin-bottom: 24px;
     font-size: clamp(30px, 5vw, 80px);
     color: #17112f;
+    font-family: Arial;
 }
 
 .container {
