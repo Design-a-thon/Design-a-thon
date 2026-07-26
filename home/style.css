@@ -147,7 +147,7 @@ body {
 
 .large-text {
     text-align: left;
-    font-size: 1.2vw;
+    font-size: clamp(14px, 1.2vw, 22px);
     margin-top: 25px;
     margin-left: 60px;
     margin-bottom: 10px;
@@ -181,7 +181,7 @@ body {
 
 .about-box {
     border-radius: 30px; 
-    width: 60%;
+    width: 90%;
     text-align: center;
     font-size:  15px;
     text-decoration: none;
@@ -200,6 +200,24 @@ body {
     text-align: justify;
 }
 
+/* Image floats */
+
+.float-img {
+    position: relative;
+    display: block;
+    width: 65%;
+    height: auto;
+    margin: 30px auto;
+}
+
+.larger-about-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Design-a-thon history textbox*/
+
 .history-box {
     display: flex;
     justify-content: center;
@@ -215,18 +233,6 @@ body {
 
 .list {
     text-align: left;
-}
-
-#about-character {
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
-}
-
-
-.character-img {
-    width: 150px;
-    height: auto;
 }
 
 #bottombar {
