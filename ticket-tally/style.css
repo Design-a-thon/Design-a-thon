@@ -124,9 +124,9 @@ body {
 }
 
 
-h1 {
+.title {
     text-align: center;
-    margin-bottom: 24px;
+    margin: 50px auto;
     font-size: clamp(30px, 5vw, 80px);
     color: #17112f;
     font-family: Arial;
