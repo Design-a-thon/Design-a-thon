@@ -215,25 +215,7 @@ body {
     text-align: justify;
 }
 
-/* Event images */
-.events-box {
-    display: flex;
-    justify-content: center;
-    gap: 20px;   
-}
-
-.event-img {
-    width: 28%;
-    height: auto;
-    object-fit: cover;
-    border: 10px solid #D6D6E9;
-    border-radius: 30px;
-    background: white;
-}
-
-.event-img:hover {
-    opacity: 0.7;
-}
+/* Image carousel*/
 
 .carousel {
     display: flex;
@@ -246,18 +228,22 @@ body {
     margin: 40px auto;
 }
 
-.carousel-images {
-    display: flex;
-    justify-content: center;
-    gap: 25px;
+.carousel-window {
     overflow: hidden;
+    width: calc(3 * 350px + 50px);
+}
+
+.carousel-track {
+    display: flex;
+    gap: 25px;
+    transition: transform 0.5s ease;
 }
 
 .carousel-img {
-    width: 30%;
-    max-width: 350px;
+    width: 320px;
+    height: auto;
+    flex-shrink: 0;
     border-radius: 25px;
-    object-fit: cover;
 }
 
 .arrow {
@@ -275,16 +261,6 @@ body {
 
 .arrow:hover {
     background: #6355c7;
-}
-
-@media (max-width:900px) {
-    .carousel-img {
-        width: 80%;
-    }
-
-    .carousel-images .carousel-img:not(:first-child) {
-        display: none;
-    }
 }
 
 /* Design-a-thon history textbox*/

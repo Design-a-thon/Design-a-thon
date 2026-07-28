@@ -5,35 +5,44 @@ menuButton.addEventListener("click", () => {
     menu.classList.toggle("active");
 });
 
-const images = [
-    "../../assets/images/event/examples/sweet1.jpg",
-    "../../assets/images/event/examples/sweet2.jpg",
-    "../../assets/images/event/examples/sweet3.jpg",
-    "../../assets/images/event/examples/sweet4.jpg",
-    "../../assets/images/event/examples/sweet5.jpg",
-    "../../assets/images/event/examples/sweet6.jpg",
-];
+const track = document.getElementById("carousel-track");
+const images = document.querySelectorAll(".carousel-img");
 
-let startIndex = 0;
+const visible = 3;
+let index = 0;
 
-const carouselImages = document.querySelectorAll(".carousel-img");
-
-function updateCarousel() {
-    carouselImages.forEach((img, i) => {
-        img.src = images[(startIndex + i) % images.length];
-    });
+function getSlideWidth() {
+    return images[0].getBoundingClientRect().width + 25;
 }
 
-function changeSlide(direction) {
-    startIndex += direction;
+function moveCarousel() {
+    track.style.transition = "transform 0.5s ease";
+    track.style.transform = `translateX(-${index * getSlideWidth()}px)`;
 
-    if (startIndex < 0) {
-        startIndex = images.length - 1;
-    }
-
-    if (startIndex >= images.length) {
-        startIndex = 0;
-    }
-
-    updateCarousel();
+    updateButtons();
 }
+
+function updateButtons() {
+    document.getElementById("prev").disabled = index === 0;
+    document.getElementById("next").disabled = index === images.length - visible;
+}
+
+document.getElementById("next").onclick = () => {
+    if (index < images.length - visible) {
+        index++;
+        moveCarousel();
+    }
+};
+
+document.getElementById("prev").onclick = () => {
+    if (index > 0) {
+        index--;
+        moveCarousel();
+    }
+};
+
+window.addEventListener("resize", () => {
+    moveCarousel();
+});
+
+updateButtons();
