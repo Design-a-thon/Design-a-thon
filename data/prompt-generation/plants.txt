@@ -1,0 +1,191 @@
+Abelia
+Alnus
+Prunus
+Pieris
+Malus
+Thuja
+Stokesia
+Azalea
+Gypsophila
+Platycodon
+Berberis
+Epimedium
+Myrica
+Arcostaphylos uva-ursi
+Penstemon
+Kolkwitzia amabilis
+Monarda
+Campanula
+Bergenia
+Callicarpa
+Betula
+Rudbeckia
+Gaillardia
+Vaccinium
+Caryopteris
+Amsonia
+Buxus
+Cimicifuga
+Ajuga
+Buddleia
+Asclepias
+Cephalanthus occidentalis
+Iberis
+Lobelia
+Dianthus
+Cedrus
+Juniperus virginiana
+Cryptomeria japonica
+Prunus
+Aronia
+Dendranthemum
+Potentilla fruiticosa
+Clematis
+Aquilegia
+Echinacea
+Centaurea
+Cotoneaster
+Geranium
+Taxodium distichum
+Microbiota decussata
+Nipponantheum
+Leucanthemum
+Hemerocallis
+Deutzia
+Cornus
+Sambucus
+Ulmus
+Enkianthus
+Euonymous
+Chamaecyparis
+Baptisia
+Comptonia peregrina
+Abies
+Pseudotsuga menziesii
+Brunnera
+Forsythia
+Fothergilla
+Digitalis
+Chionanthus
+Teucreum
+Aruncus
+Laburnum
+Ligularia
+Crataegus
+Tsuga canadensis
+Sempervivum
+Ilex
+Gleditsia
+Lonicera
+Diervilla
+Carpinus betulus
+Aesculus
+Hosta
+Hydrangea
+Schizophragma hydrangeoides
+Agastache
+Ilex glabra
+Iris
+Parthenocissus tricuspidata
+Hedera helix
+Polemonium
+Eupatorium
+Juniperus
+Kerria japonica
+Alchemilla
+Stachys
+Delphinium
+Lavandula
+Leucothoe
+Syringa
+Convallaria
+Liriope
+Tilia cordata
+Platanus acerifolia ‘Bloodgood’
+Pulmonaria
+Magnolia
+Acer
+Thalictrum
+Filipendula
+Philadelphus
+Aconitum
+Kalmia
+Phlox subulata
+Vinca Minor
+Lamium
+Physocarpus
+Quercus
+Physostegia
+Pachysandra
+Caragana arborescens pendula
+Pyrus
+Paeonia
+Phlox
+Scabiosa
+Pinus
+Sciadopitys verticillata
+Prunus
+Ceratostigma
+Papaver
+Ligustrum
+Chaenomeles
+Cercis canadensis
+Disanthus cercidifolius
+Kniphofia
+Metasequoia glyptostroboides
+Rhododendron
+Rodgersia
+Rosa
+Hibiscus
+Helleborus
+Salvia
+Perovskia
+Carex
+Heptacodium miconioides
+Amelanchier
+Skimmia
+Cotinus coggygria
+Helenium
+Cerastium
+Polygonatum
+Oxydendrum arboreum
+Veronica
+Lindera benzoin
+Spiraea
+Sorbaria sorbifolia
+Astilbe
+Picea
+Euphorbia
+Stephanandra
+Stewartia
+Sedum
+Styrax
+Rhus
+Clethra
+Heliopsis
+Acorus
+Liquidambar styraciflua
+Calycanthus floridus
+Itea virginicus
+Symphoricarpos
+Thymus
+Coreopsis
+Tricyrtis
+Campsis
+Nyssa sylvatica
+Chelone
+Viburnum
+Corylus avellana
+Gaura
+Weigela
+Salix
+Anemone
+Ilex verticillata
+Corylopsis
+Wisteria
+Hamamelis
+Galium
+Artemisia
+Achillea
+Taxus
+Zelkova
