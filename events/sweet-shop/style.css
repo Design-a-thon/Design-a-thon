@@ -242,12 +242,43 @@ body {
 .carousel-img {
     width: 320px;
     height: auto;
-    flex-shrink: 0;
+    display: block;
     border-radius: 25px;
 }
 
-.carousel-img:hover {
+.carousel-card {
+    position: relative;
+    width: 320px;
+    flex-shrink: 0;
+    cursor: pointer;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+.carousel-card:not(.show-description):hover {
     opacity: 0.7;
+}
+
+.card-description {
+    position: absolute;
+    inset: 0;
+
+    background: rgba(62, 62, 75, 0.9);
+    color: white;
+
+    border-radius: 25px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+
+    opacity: 0;
+}
+
+.carousel-card.show-description .card-description {
+    opacity: 1;
 }
 
 .arrow {
