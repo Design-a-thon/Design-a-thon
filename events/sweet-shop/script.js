@@ -11,6 +11,7 @@ const images = [
     "../../assets/images/event/examples/sweet3.jpg",
     "../../assets/images/event/examples/sweet4.jpg",
     "../../assets/images/event/examples/sweet5.jpg",
+    "../../assets/images/event/examples/sweet6.jpg",
 ];
 
 let startIndex = 0;
