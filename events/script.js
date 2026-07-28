@@ -5,6 +5,14 @@ menuButton.addEventListener("click", () => {
     menu.classList.toggle("active");
 });
 
+const eventsButton = document.getElementById("current-link");
+const dropdown = document.querySelector(".dropdown-content");
+
+eventsButton.addEventListener("click", (event) => {
+    event.preventDefault();
+    dropdown.classList.toggle("active");
+});
+
 const floatImg1 = document.getElementById("float-img1");
 const floatImg2 = document.getElementById("float-img2");
 const floatImg3 = document.getElementById("float-img3");

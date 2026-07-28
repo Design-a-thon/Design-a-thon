@@ -293,10 +293,12 @@ body {
         width: 100%;
     }
 
-    .about-box {
+    .about-box,
+    .history-box {
         width: calc(100% - 40px);
         margin: 20px auto;
         padding: 15px;
+        box-sizing: border-box;
     }
 
     .text-box {
@@ -322,14 +324,6 @@ body {
     .float-img {
         width: 45%;
         margin: 15px auto;
-    }
-
-
-    /* History */
-    .history-box {
-        width: calc(100% - 40px);
-        margin: 20px auto;
-        padding: 15px;
     }
 
 
