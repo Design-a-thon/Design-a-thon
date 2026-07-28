@@ -1,114 +1,114 @@
-@Lemon24K - "Stokesia" + "Axis kuhlii" 
-@AnimatingDragon - "Enkianthus" + "Choloepus didactylus" 
-@KueenSuSDoggy1 - "Taxus" + "Oriolus auratus Vieillot" 
-@blue1sun - "Filipendula" + "Ailurus fulgens F.G.Cuvier" 
-@Winterbreath_dragon - "Sambucus" + "Procyon lotor" 
-@SkyCedar - "Stokesia" + "Lycaon pictus" 
-@_PlantEater - "Liquidambar styraciflua" + "Cervus elaphus barbarous" 
-@TheRealmJumper - "Ulmus" + "Proteles cristatus septentrionalis" 
-@Warriors_Studios - "Alnus" + "Ailurops ursinus" 
-@Sweetgrapes22 - "Filipendula" + "Leptailurus serval" 
-@RainGlassTea - "Sambucus" + "Ailurops ursinus" 
-@steenie5 - "Vaccinium" + "Canis lupus lupus" 
-@-Xx-Star_Girl-xX- - "Parthenocissus tricuspidata" + "Ursus americanus Pallas" 
-@WhiskersTheFox7 - "Galium" + "Ciconia abdimii Lichtenstein" 
-@No1_PomniFan - "Delphinium" + "Panthera tigris altaica Temminck" 
-@DragonQueenZ - "Sedum" + "Falco sparverius Linnaeus" 
-@Cereal_projects - "Microbiota decussata" + "Lemniscomys barbarous" 
-@pikachow9375 - "Symphoricarpos" + "Procyon lotor" 
-@DumbCAT-Ade- - "Chamaecyparis" + "Hydrochoerus hydrochaeris" 
-@Mistymarsh27 - "Quercus" + "Acomys cilicicus Spitzenberger" 
-@Cloud_Gazer - "Alchemilla" + "Addax nasomaculatus" 
-@cookies-n-icecream - "Chionanthus" + "Cervus elaphus barbarous" 
-@Frost_cat02 - "Bergenia" + "Ursus americanus Pallas" 
-@_aceheart543_ - "Rodgersia" + "Otocyon megalotis" 
-@Eevee585919 - "Pachysandra" + "Canis lupus lupus" 
-@_0DD - "Viburnum" + "Lycaon pictus" 
-@kaypaws - "Hydrangea" + "Lepus europaeus Pallas" 
-@-fowypaws- - "Gypsophila" + "Eulemur flavifrons" 
-@Pyrophyte - "Chionanthus" + "Panthera leo" 
-@-CaliTheCat- - "Corylopsis" + "Grus japonensis" 
-@myotheraltnowork - "Ceratostigma" + "Pelecanus crispus Bruch" 
-@snazybean - "Juniperus virginiana" + "Saguinus Oedipus" 
-@sillyther1an - "Zelkova" + "Lycaon pictus" 
-@GREEKFREAK2000 - "Polygonatum" + "Orycteropus afer" 
-@_-YourLocalSkittle-_ - "Juniperus" + "Procyon lotor" 
-@coolkid822_isback - "Prunus" + "Panthera tigris altaica Temminck" 
-@LSTS314 - "Aronia" + "Acomys cilicicus Spitzenberger" 
-@Starlight__Nightsong - "Nyssa sylvatica" + "Orycteropus afer" 
-@Cute_candyCorn - "Leucothoe" + "Canis lupus lupus" 
-@Bluedog-57 - "Rhododendron" + "Saguinus Oedipus" 
-@QibliDaBorger - "Nyssa sylvatica" + "Otocyon megalotis" 
-@numnumkaio - "Rosa" + "Ailurops ursinus" 
-@InvisiblePanda89 - "Heliopsis" + "Leptailurus serval" 
-@BEEPBOPIROBOTFAN - "Kalmia" + "Equus grevyi Oustalet" 
-@Pawlight93823 - "Wisteria" + "Otocyon megalotis" 
-@snoot14 - "Centaurea" + "Atherurus africanus Gray" 
-@peepy_weepy - "Ilex" + "Lepus europaeus Pallas" 
-@wolfaya - "Astilbe" + "Vicugna vicugna" 
-@ILOVEWARRIORCATS-7 - "Potentilla fruiticosa" + "Oriolus auratus Vieillot" 
-@cometzz- - "Spiraea" + "Grus japonensis" 
-@soph_thy_LOAF - "Ajuga" + "Acrocodia indica" 
-@RosedMeadow - "Penstemon" + "Scopus umbretta Gmelin" 
-@-Bird-_ - "Rudbeckia" + "Otocyon megalotis" 
-@Clyde_The_Snake - "Rodgersia" + "Nycticebus bengalensis" 
-@Box_cover - "Itea virginicus" + "Thallomys paedulcus" 
-@HarryTheSparkly - "Digitalis" + "Syncerus caffer caffer" 
-@LimeKittyXwX - "Cornus" + "Oriolus auratus Vieillot" 
-@_-Lillies-_ - "Ilex verticillata" + "Panthera onca" 
-@Augustleaf_OC - "Liquidambar styraciflua" + "Acrocodia indica" 
-@RainbowUnicorn_Kitty - "Physocarpus" + "Amblonyx cinereus" 
-@BOOKWORM676767 - "Monarda" + "Leptailurus serval" 
-@Strang3r- - "Perovskia" + "Procyon lotor" 
-@veoshark_xo - "Alnus" + "Panthera leo" 
-@-SwirledberryTart- - "Kolkwitzia amabilis" + "Procyon lotor" 
-@dovewell - "Schizophragma hydrangeoides" + "Panthera leo" 
-@Ravyndawolf - "Laburnum" + "Camelus bactrianus bactrianus" 
-@lexi-24k - "Hibiscus" + "Choloepus didactylus" 
-@ABW_Meep - "Paeonia" + "Scopus umbretta Gmelin" 
-@Mittins7 - "Taxodium distichum" + "Hydrochoerus hydrochaeris" 
-@FRIED_RICE_4EVER - "Aconitum" + "Addax nasomaculatus" 
-@-_Ashfur-_ - "Caragana arborescens pendula" + "Otocyon megalotis" 
-@beengo - "Calycanthus floridus" + "Catopuma temminckii" 
-@-_Silvertail-_ - "Platanus acerifolia ‘Bloodgood’" + "Otocyon megalotis" 
-@Lightningstar127 - "Pseudotsuga menziesii" + "Vicugna vicugna" 
-@PerilsRath - "Lamium" + "Choloepus didactylus" 
-@indigo_lemon_studios - "Laburnum" + "Ciconia abdimii Lichtenstein" 
-@FRANthebarncat12345 - "Vinca Minor" + "Eulemur flavifrons" 
-@SaLtY_YuM - "Myrica" + "Catopuma temminckii" 
-@tweetybird_xx - "Vaccinium" + "Ailurops ursinus" 
-@Qibil4056 - "Pulmonaria" + "Anas sparsa Eyton" 
-@-Mingo_Da_Alienn- - "Tilia cordata" + "Elephas maximus Linnaeus" 
-@evelynhuang32 - "Abelia" + "Canis lupus lupus" 
-@SodyP0PXD - "Quercus" + "Uncia uncia" 
-@STRWB3RRYC4T45 - "Artemisia" + "Ateles chamek" 
-@Kattheactor - "Corylopsis" + "Anas sparsa Eyton" 
-@ArtMothButterfly - "Sempervivum" + "Acinonyx jubatus" 
-@-Pennatae- - "Achillea" + "Oriolus auratus Vieillot" 
-@goldwolf_animator - "Carpinus betulus" + "Elephas maximus Linnaeus" 
-@saffire6 - "Phlox" + "Atherurus africanus Gray" 
-@Moonlight3490 - "Penstemon" + "Atherurus africanus Gray" 
-@MoonDragn - "Campanula" + "Ursus americanus Pallas" 
-@Kitty_Fox09 - "Baptisia" + "Pelecanus crispus Bruch" 
-@-nightshade360- - "Pseudotsuga menziesii" + "Vicugna pacos" 
-@song-lit - "Stephanandra" + "Panthera tigris altaica Temminck" 
-@13Chan_Official - "Polygonatum" + "Eidolon helvum" 
-@_verycookie_ - "Fothergilla" + "Acinonyx jubatus" 
-@martymomentoftheday - "Carpinus betulus" + "Scopus umbretta Gmelin" 
-@_-_Blood-Moon_-_ - "Lobelia" + "Camelus bactrianus bactrianus" 
-@Goobthedonut - "Physostegia" + "Grus japonensis" 
-@white_tigrrr - "Physostegia" + "Falco sparverius Linnaeus" 
-@Melodythereader - "Bergenia" + "Oriolus auratus Vieillot" 
-@Extreme_Fox_Coder - "Digitalis" + "Choloepus didactylus" 
-@Maple-The-Fawn - "Abies" + "Acrocodia indica" 
-@FrecklepawOfShadow - "Phlox subulata" + "Lepus europaeus Pallas" 
-@LabbyMaple - "Gleditsia" + "Falco sparverius Linnaeus" 
-@Keiji-kamizuki - "Prunus" + "Camelus bactrianus bactrianus" 
-@FireFox_113540 - "Symphoricarpos" + "Hydrochoerus hydrochaeris" 
-@EvieTheDestroyer - "Buddleia" + "Hydrochoerus hydrochaeris" 
-@_glitterpaw_ - "Teucreum" + "Uncia uncia" 
-@daffxdils- - "Corylopsis" + "Leptailurus serval" 
-@random-arty-dragon - "Rhus" + "Mandrillus sphinx" 
-@tansyspring - "Sciadopitys verticillata" + "Saguinus Oedipus" 
-@The1Only_Darkstalker - "Rhus" + "Orycteropus afer" 
-@DaintreetheRainwing - "Abelia" + "Leptailurus serval" 
+@Lemon24K - "Stokesia" + "Axis kuhlii
+@AnimatingDragon - "Enkianthus" + "Choloepus didactylus
+@KueenSuSDoggy1 - "Taxus" + "Oriolus auratus Vieillot
+@blue1sun - "Filipendula" + "Ailurus fulgens F.G.Cuvier
+@Winterbreath_dragon - "Sambucus" + "Procyon lotor
+@SkyCedar - "Stokesia" + "Lycaon pictus
+@_PlantEater - "Liquidambar styraciflua" + "Cervus elaphus barbarous
+@TheRealmJumper - "Ulmus" + "Proteles cristatus septentrionalis
+@Warriors_Studios - "Alnus" + "Ailurops ursinus
+@Sweetgrapes22 - "Filipendula" + "Leptailurus serval
+@RainGlassTea - "Sambucus" + "Ailurops ursinus
+@steenie5 - "Vaccinium" + "Canis lupus lupus
+@-Xx-Star_Girl-xX- - "Parthenocissus tricuspidata" + "Ursus americanus Pallas
+@WhiskersTheFox7 - "Galium" + "Ciconia abdimii Lichtenstein
+@No1_PomniFan - "Delphinium" + "Panthera tigris altaica Temminck
+@DragonQueenZ - "Sedum" + "Falco sparverius Linnaeus
+@Cereal_projects - "Microbiota decussata" + "Lemniscomys barbarous
+@pikachow9375 - "Symphoricarpos" + "Procyon lotor
+@DumbCAT-Ade- - "Chamaecyparis" + "Hydrochoerus hydrochaeris
+@Mistymarsh27 - "Quercus" + "Acomys cilicicus Spitzenberger
+@Cloud_Gazer - "Alchemilla" + "Addax nasomaculatus
+@cookies-n-icecream - "Chionanthus" + "Cervus elaphus barbarous
+@Frost_cat02 - "Bergenia" + "Ursus americanus Pallas
+@_aceheart543_ - "Rodgersia" + "Otocyon megalotis
+@Eevee585919 - "Pachysandra" + "Canis lupus lupus
+@_0DD - "Viburnum" + "Lycaon pictus
+@kaypaws - "Hydrangea" + "Lepus europaeus Pallas
+@-fowypaws- - "Gypsophila" + "Eulemur flavifrons
+@Pyrophyte - "Chionanthus" + "Panthera leo
+@-CaliTheCat- - "Corylopsis" + "Grus japonensis
+@myotheraltnowork - "Ceratostigma" + "Pelecanus crispus Bruch
+@snazybean - "Juniperus virginiana" + "Saguinus Oedipus
+@sillyther1an - "Zelkova" + "Lycaon pictus
+@GREEKFREAK2000 - "Polygonatum" + "Orycteropus afer
+@_-YourLocalSkittle-_ - "Juniperus" + "Procyon lotor
+@coolkid822_isback - "Prunus" + "Panthera tigris altaica Temminck
+@LSTS314 - "Aronia" + "Acomys cilicicus Spitzenberger
+@Starlight__Nightsong - "Nyssa sylvatica" + "Orycteropus afer
+@Cute_candyCorn - "Leucothoe" + "Canis lupus lupus
+@Bluedog-57 - "Rhododendron" + "Saguinus Oedipus
+@QibliDaBorger - "Nyssa sylvatica" + "Otocyon megalotis
+@numnumkaio - "Rosa" + "Ailurops ursinus
+@InvisiblePanda89 - "Heliopsis" + "Leptailurus serval
+@BEEPBOPIROBOTFAN - "Kalmia" + "Equus grevyi Oustalet
+@Pawlight93823 - "Wisteria" + "Otocyon megalotis
+@snoot14 - "Centaurea" + "Atherurus africanus Gray
+@peepy_weepy - "Ilex" + "Lepus europaeus Pallas
+@wolfaya - "Astilbe" + "Vicugna vicugna
+@ILOVEWARRIORCATS-7 - "Potentilla fruiticosa" + "Oriolus auratus Vieillot
+@cometzz- - "Spiraea" + "Grus japonensis
+@soph_thy_LOAF - "Ajuga" + "Acrocodia indica
+@RosedMeadow - "Penstemon" + "Scopus umbretta Gmelin
+@-Bird-_ - "Rudbeckia" + "Otocyon megalotis
+@Clyde_The_Snake - "Rodgersia" + "Nycticebus bengalensis
+@Box_cover - "Itea virginicus" + "Thallomys paedulcus
+@HarryTheSparkly - "Digitalis" + "Syncerus caffer caffer
+@LimeKittyXwX - "Cornus" + "Oriolus auratus Vieillot
+@_-Lillies-_ - "Ilex verticillata" + "Panthera onca
+@Augustleaf_OC - "Liquidambar styraciflua" + "Acrocodia indica
+@RainbowUnicorn_Kitty - "Physocarpus" + "Amblonyx cinereus
+@BOOKWORM676767 - "Monarda" + "Leptailurus serval
+@Strang3r- - "Perovskia" + "Procyon lotor
+@veoshark_xo - "Alnus" + "Panthera leo
+@-SwirledberryTart- - "Kolkwitzia amabilis" + "Procyon lotor
+@dovewell - "Schizophragma hydrangeoides" + "Panthera leo
+@Ravyndawolf - "Laburnum" + "Camelus bactrianus bactrianus
+@lexi-24k - "Hibiscus" + "Choloepus didactylus
+@ABW_Meep - "Paeonia" + "Scopus umbretta Gmelin
+@Mittins7 - "Taxodium distichum" + "Hydrochoerus hydrochaeris
+@FRIED_RICE_4EVER - "Aconitum" + "Addax nasomaculatus
+@-_Ashfur-_ - "Caragana arborescens pendula" + "Otocyon megalotis
+@beengo - "Calycanthus floridus" + "Catopuma temminckii
+@-_Silvertail-_ - "Platanus acerifolia ‘Bloodgood’" + "Otocyon megalotis
+@Lightningstar127 - "Pseudotsuga menziesii" + "Vicugna vicugna
+@PerilsRath - "Lamium" + "Choloepus didactylus
+@indigo_lemon_studios - "Laburnum" + "Ciconia abdimii Lichtenstein
+@FRANthebarncat12345 - "Vinca Minor" + "Eulemur flavifrons
+@SaLtY_YuM - "Myrica" + "Catopuma temminckii
+@tweetybird_xx - "Vaccinium" + "Ailurops ursinus
+@Qibil4056 - "Pulmonaria" + "Anas sparsa Eyton
+@-Mingo_Da_Alienn- - "Tilia cordata" + "Elephas maximus Linnaeus
+@evelynhuang32 - "Abelia" + "Canis lupus lupus
+@SodyP0PXD - "Quercus" + "Uncia uncia
+@STRWB3RRYC4T45 - "Artemisia" + "Ateles chamek
+@Kattheactor - "Corylopsis" + "Anas sparsa Eyton
+@ArtMothButterfly - "Sempervivum" + "Acinonyx jubatus
+@-Pennatae- - "Achillea" + "Oriolus auratus Vieillot
+@goldwolf_animator - "Carpinus betulus" + "Elephas maximus Linnaeus
+@saffire6 - "Phlox" + "Atherurus africanus Gray
+@Moonlight3490 - "Penstemon" + "Atherurus africanus Gray
+@MoonDragn - "Campanula" + "Ursus americanus Pallas
+@Kitty_Fox09 - "Baptisia" + "Pelecanus crispus Bruch
+@-nightshade360- - "Pseudotsuga menziesii" + "Vicugna pacos
+@song-lit - "Stephanandra" + "Panthera tigris altaica Temminck
+@13Chan_Official - "Polygonatum" + "Eidolon helvum
+@_verycookie_ - "Fothergilla" + "Acinonyx jubatus
+@martymomentoftheday - "Carpinus betulus" + "Scopus umbretta Gmelin
+@_-_Blood-Moon_-_ - "Lobelia" + "Camelus bactrianus bactrianus
+@Goobthedonut - "Physostegia" + "Grus japonensis
+@white_tigrrr - "Physostegia" + "Falco sparverius Linnaeus
+@Melodythereader - "Bergenia" + "Oriolus auratus Vieillot
+@Extreme_Fox_Coder - "Digitalis" + "Choloepus didactylus
+@Maple-The-Fawn - "Abies" + "Acrocodia indica
+@FrecklepawOfShadow - "Phlox subulata" + "Lepus europaeus Pallas
+@LabbyMaple - "Gleditsia" + "Falco sparverius Linnaeus
+@Keiji-kamizuki - "Prunus" + "Camelus bactrianus bactrianus
+@FireFox_113540 - "Symphoricarpos" + "Hydrochoerus hydrochaeris
+@EvieTheDestroyer - "Buddleia" + "Hydrochoerus hydrochaeris
+@_glitterpaw_ - "Teucreum" + "Uncia uncia
+@daffxdils- - "Corylopsis" + "Leptailurus serval
+@random-arty-dragon - "Rhus" + "Mandrillus sphinx
+@tansyspring - "Sciadopitys verticillata" + "Saguinus Oedipus
+@The1Only_Darkstalker - "Rhus" + "Orycteropus afer
+@DaintreetheRainwing - "Abelia" + "Leptailurus serval

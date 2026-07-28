@@ -14,7 +14,7 @@ def load_data(filename):
 def write_data(filename, data):
     with open(filename, 'w') as f:
         for line in data:
-            f.write(line)
+            f.write(line + "\n")
 
 usernames = load_data("data/signups.txt")
 
@@ -30,6 +30,10 @@ plants = load_data("data/prompt-generation/plants.txt")
 birds = load_data("data/prompt-generation/birds.txt")
 mammals = load_data("data/prompt-generation/mammals.txt")
 
+# Aesthetic Accessories
+aesthetics = load_data("data/prompt-generation/aesthetics.txt")
+accessories = load_data("data/prompt-generation/accessories.txt")
+
 #Sweet Shop & Sounds of Creativity Prompt Generation
 
 random.seed(42)
@@ -37,22 +41,27 @@ random.seed(42)
 sweetshop = []  
 sounds = []
 beasts = []
+aa = []
 
 for user in usernames:
     d = random.choice(desserts)
-    sweetshop.append(f"@{user} - {d} \n")
+    sweetshop.append(f"@{user} - {d}")
         
     s = random.choice(songs)
-    sounds.append(f"""@{user} - "{s}" \n""")
+    sounds.append(f"""@{user} - "{s}""")
 
     b1 = random.choice(plants)
     b2 = random.choice(mammals)
+    beasts.append(f"""@{user} - "{b1}" + "{b2}""")
 
-    beasts.append(f"""@{user} - "{b1}" + "{b2}" \n""")
+    aes = random.choice(aesthetics)
+    acc = random.choice(accessories)
+    aa.append(f"""@{user} - "{aes}" + "{acc}""")
 
 write_data('data/prompts/sweetshop.txt', sweetshop)
 write_data('data/prompts/sounds.txt', sounds)
 write_data('data/prompts/beasts.txt', beasts)
+write_data('data/prompts/aesthetic-accessories.txt', aa)
 
 output = {
     "Sweet Shop": {
@@ -63,6 +72,9 @@ output = {
     },
     "Beasts of Fantasy": {
         f"@{user}": prompt for user, prompt in zip(usernames, beasts)
+    },
+    "Aesthetic Accessories": {
+        f"@{user}": prompt for user, prompt in zip(usernames, aa)
     }
 }
 
