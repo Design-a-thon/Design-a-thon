@@ -246,6 +246,10 @@ body {
     border-radius: 25px;
 }
 
+.carousel-img:hover {
+    opacity: 0.7;
+}
+
 .arrow {
     background: #3E3E4B;
     color: white;
@@ -261,6 +265,23 @@ body {
 
 .arrow:hover {
     background: #6355c7;
+}
+
+@media (max-width:900px) {
+
+    .carousel {
+        width: 100%;
+    }
+
+    .carousel-window {
+        width: 80%;
+    }
+
+    .carousel-img {
+        width: 100%;
+        max-width: none;
+        flex-shrink: 0;
+    }
 }
 
 /* Design-a-thon history textbox*/

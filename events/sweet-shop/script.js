@@ -8,7 +8,10 @@ menuButton.addEventListener("click", () => {
 const track = document.getElementById("carousel-track");
 const images = document.querySelectorAll(".carousel-img");
 
-const visible = 3;
+function getVisible() {
+    return window.innerWidth <= 900 ? 1 : 3;
+}
+
 let index = 0;
 
 function getSlideWidth() {
@@ -24,11 +27,12 @@ function moveCarousel() {
 
 function updateButtons() {
     document.getElementById("prev").disabled = index === 0;
-    document.getElementById("next").disabled = index === images.length - visible;
+    document.getElementById("next").disabled =
+        index === images.length - getVisible();
 }
 
 document.getElementById("next").onclick = () => {
-    if (index < images.length - visible) {
+    if (index < images.length - getVisible()) {
         index++;
         moveCarousel();
     }
