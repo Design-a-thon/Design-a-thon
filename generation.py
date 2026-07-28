@@ -45,18 +45,18 @@ aa = []
 
 for user in usernames:
     d = random.choice(desserts)
-    sweetshop.append(f"@{user} - {d}")
+    sweetshop.append(f'@{user} - {d}')
         
     s = random.choice(songs)
-    sounds.append(f"""@{user} - "{s}""")
+    sounds.append(f'""@{user} - "{s}""')
 
     b1 = random.choice(plants)
     b2 = random.choice(mammals)
-    beasts.append(f"""@{user} - "{b1}" + "{b2}""")
+    beasts.append(f'@{user} - "{b1}" + "{b2}"')
 
     aes = random.choice(aesthetics)
     acc = random.choice(accessories)
-    aa.append(f"""@{user} - "{aes}" + "{acc}""")
+    aa.append(f'@{user} - "{aes}" + "{acc}"')
 
 write_data('data/prompts/sweetshop.txt', sweetshop)
 write_data('data/prompts/sounds.txt', sounds)
