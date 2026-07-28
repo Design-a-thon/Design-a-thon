@@ -6,11 +6,11 @@ menuButton.addEventListener("click", () => {
 });
 
 const images = [
-    "../../assets/images/event/sweet-shop/examples/sweet1.png",
-    "../../assets/images/event/sweet-shop/examples/sweet2.png",
-    "../../assets/images/event/sweet-shop/examples/sweet3.png",
-    "../../assets/images/event/sweet-shop/examples/sweet4.jpg",
-    "../../assets/images/event/sweet-shop/examples/sweet5.png",
+    "../../assets/images/event/examples/sweet1.jpg",
+    "../../assets/images/event/examples/sweet2.jpg",
+    "../../assets/images/event/examples/sweet3.jpg",
+    "../../assets/images/event/examples/sweet4.jpg",
+    "../../assets/images/event/examples/sweet5.jpg",
 ];
 
 let startIndex = 0;
