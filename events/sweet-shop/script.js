@@ -5,6 +5,14 @@ menuButton.addEventListener("click", () => {
     menu.classList.toggle("active");
 });
 
+const eventsButton = document.getElementById("current-link");
+const dropdown = document.querySelector(".dropdown-content");
+
+eventsButton.addEventListener("click", (event) => {
+    event.preventDefault();
+    dropdown.classList.toggle("active");
+});
+
 const track = document.getElementById("carousel-track");
 const images = document.querySelectorAll(".carousel-img");
 
