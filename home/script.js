@@ -10,16 +10,16 @@ const floatImg2 = document.getElementById("float-img2");
 const floatImg3 = document.getElementById("float-img3");
 
 const images1 = [
-    "../assets/images/homepage/about/Website Float 1-1.png",
-    "../assets/images/homepage/about/Website Float 1-2.png"
+    "../assets/images/homepage/about/Website Float 1-1.jpg",
+    "../assets/images/homepage/about/Website Float 1-2.jpg"
 ];
 const images2 = [
-    "../assets/images/homepage/about/Website Float 2-1.png",
-    "../assets/images/homepage/about/Website Float 2-2.png"
+    "../assets/images/homepage/about/Website Float 2-1.jpg",
+    "../assets/images/homepage/about/Website Float 2-2.jpg"
 ];
 const images3 = [
-    "../assets/images/homepage/about/Website Float 3-1.png",
-    "../assets/images/homepage/about/Website Float 3-2.png"
+    "../assets/images/homepage/about/Website Float 3-1.jpg",
+    "../assets/images/homepage/about/Website Float 3-2.jpg"
 ];
 
 let index = 0;
