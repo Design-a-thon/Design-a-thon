@@ -261,6 +261,7 @@ body {
     margin-bottom: 10px;
 }
 
+.colored-text,
 .highlighted-text {
     text-decoration: none;
     color: #6355c7;
