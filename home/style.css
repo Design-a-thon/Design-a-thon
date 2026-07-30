@@ -212,7 +212,7 @@ body {
 .float-img {
     position: relative;
     display: block;
-    width: 300px;
+    width: 23.5vw;
     height: auto;
     margin: 50px 40px 40px 0px;
     border-radius: 20px;
@@ -232,7 +232,7 @@ body {
     border-radius: 30px; 
     width: 90%;
     text-align: center;
-    font-size:  15px;
+    font-size: 15px;
     text-decoration: none;
     padding: 20px ;
     margin: 30px auto;
