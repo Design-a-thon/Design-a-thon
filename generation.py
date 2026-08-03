@@ -172,10 +172,10 @@ if (len(usernames)%3) == 1:
     image_drawer = ImageDraw.Draw(new_image)
     image_drawer.rectangle(RECT_COORDS_1, RECT_COLOR)
 
-    palette1 = Image.open(f'palettes/{random.randint(1,25)}.png')
+    palette1 = Image.open(f'data/prompt-generation/palette_files/{random.randint(1,25)}.png')
     new_image.paste(palette1, (105, 190))
     image_drawer.text((180, 120), f'{user1}', font = mf, fill= BLACK)
-    new_image.save(f"../cd/{count}.png")
+    new_image.save(f"data/prompts/cd-palettes/{count}.png")
 
 elif (len(usernames)%3) == 2:
     count += 1
@@ -187,13 +187,13 @@ elif (len(usernames)%3) == 2:
     image_drawer.rectangle(RECT_COORDS_1, RECT_COLOR)
     image_drawer.rectangle(RECT_COORDS_2, RECT_COLOR)
 
-    palette1 = Image.open(f'palettes/{random.randint(1,25)}.png')
-    palette2 = Image.open(f'palettes/{random.randint(1,25)}.png')
+    palette1 = Image.open(f'data/prompt-generation/palette_files/{random.randint(1,25)}.png')
+    palette2 = Image.open(f'data/prompt-generation/palette_files/{random.randint(1,25)}.png')
     new_image.paste(palette1, (105, 190))
     new_image.paste(palette2, (105, 350))
     image_drawer.text((180, 120), f'{user1}', font = mf, fill= BLACK)
     image_drawer.text((180, 280), f'{user2}', font = mf, fill = BLACK)
-    new_image.save(f"../cd/{count}.png")
+    new_image.save(f"data/prompts/cd-palettes/{count}.png")
 
 #username = "@Lemon24K"
 #image_drawer.text((180, 120), username, font = mf, fill= BLACK)
