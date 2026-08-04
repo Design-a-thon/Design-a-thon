@@ -1,4 +1,4 @@
-Last Updated: 2026-08-04 09:15:40
+Last Updated: 2026-08-04 11:05:46
 
 @Lemon24K: 25
 @AnimatingDragon: 10
@@ -29,7 +29,7 @@ Last Updated: 2026-08-04 09:15:40
 @kaypaws: 10
 @-fowypaws-: 10
 @Pyrophyte: 10
-@-CaliTheCat-: 18
+@-CaliTheCat-: 23
 @myotheraltnowork: 10
 @snazybean: 10
 @sillyther1an: 10
@@ -54,7 +54,7 @@ Last Updated: 2026-08-04 09:15:40
 @RosedMeadow: 10
 @-Bird-_: 10
 @Clyde_The_Snake: 10
-@Box_cover: 39
+@Box_cover: 31
 @HarryTheSparkly: 10
 @LimeKittyXwX: 30
 @_-Lillies-_: 10
@@ -84,8 +84,8 @@ Last Updated: 2026-08-04 09:15:40
 @evelynhuang32: 10
 @SodyP0PXD: 10
 @STRWB3RRYC4T45: 10
-@Kattheactor: 10
-@ArtMothButterfly: 10
+@Kattheactor: 25
+@ArtMothButterfly: 24
 @-Pennatae-: 10
 @goldwolf_animator: 10
 @saffire6: 10
@@ -104,7 +104,7 @@ Last Updated: 2026-08-04 09:15:40
 @Extreme_Fox_Coder: 10
 @Maple-The-Fawn: 10
 @FrecklepawOfShadow: 10
-@LabbyMaple: 25
+@LabbyMaple: 19
 @Keiji-kamizuki: 10
 @FireFox_113540: 10
 @EvieTheDestroyer: 10
