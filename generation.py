@@ -131,8 +131,8 @@ image_drawer.rectangle(RECT_COORDS_1, RECT_COLOR)
 image_drawer.rectangle(RECT_COORDS_2, RECT_COLOR)
 image_drawer.rectangle(RECT_COORDS_3, RECT_COLOR)
 
-
-mf = ImageFont.truetype('arial.ttf', 40)
+mf = ImageFont.truetype("assets/fonts/ARIAL.TTF", 40)
+#mf = ImageFont.truetype('arial.ttf', 40)
 count = 0
 
 #print(len(usernames))
