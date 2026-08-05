@@ -35,6 +35,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add data/ticket_balance.txt
+          git add data/bad_usernames.txt
           git add data/ticket_balance.json
 
           git diff --cached --quiet && exit 0
