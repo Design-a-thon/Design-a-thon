@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Last Updated: 2026-08-06 13:52:08
+=======
+Last Updated: 2026-08-06 09:08:30
+>>>>>>> 74936c9af9ffc73ebf4b8db0f80677486119864e
 
 @Lemon24K: 35
 @AnimatingDragon: 10
@@ -43,7 +47,11 @@ Last Updated: 2026-08-06 13:52:08
 @QibliDaBorger: 10
 @numnumkaio: 10
 @InvisiblePanda89: 10
+<<<<<<< HEAD
 @BEEPBOPIROBOTFAN: 37
+=======
+@BEEPBOPIROBOTFAN: 32
+>>>>>>> 74936c9af9ffc73ebf4b8db0f80677486119864e
 @Pawlight93823: 10
 @snoot14: 10
 @peepy_weepy: 10
@@ -52,7 +60,11 @@ Last Updated: 2026-08-06 13:52:08
 @cometzz-: 25
 @soph_thy_LOAF: 10
 @RosedMeadow: 10
+<<<<<<< HEAD
 @-Bird-_: 25
+=======
+@-Bird-_: 10
+>>>>>>> 74936c9af9ffc73ebf4b8db0f80677486119864e
 @Clyde_The_Snake: 28
 @Box_cover: 36
 @HarryTheSparkly: 10
@@ -68,7 +80,11 @@ Last Updated: 2026-08-06 13:52:08
 @Ravyndawolf: 30
 @lexi-24k: 35
 @ABW_Meep: 40
+<<<<<<< HEAD
 @Mittins7: 25
+=======
+@Mittins7: 20
+>>>>>>> 74936c9af9ffc73ebf4b8db0f80677486119864e
 @FRIED_RICE_4EVER: 10
 @-_Ashfur-_: 10
 @beengo: 10
@@ -102,15 +118,25 @@ Last Updated: 2026-08-06 13:52:08
 @white_tigrrr: 10
 @Melodythereader: 10
 @Extreme_Fox_Coder: 10
+<<<<<<< HEAD
 @Maple-The-Fawn: 30
 @FrecklepawOfShadow: 10
 @LabbyMaple: 23
+=======
+@Maple-The-Fawn: 20
+@FrecklepawOfShadow: 10
+@LabbyMaple: 29
+>>>>>>> 74936c9af9ffc73ebf4b8db0f80677486119864e
 @Keiji-kamizuki: 10
 @FireFox_113540: 10
 @EvieTheDestroyer: 25
 @_glitterpaw_: 10
 @daffxdils-: 10
+<<<<<<< HEAD
 @random-arty-dragon: 33
+=======
+@random-arty-dragon: 30
+>>>>>>> 74936c9af9ffc73ebf4b8db0f80677486119864e
 @tansyspring: 10
 @The1Only_Darkstalker: 10
 @DaintreetheRainwing: 10
@@ -139,6 +165,7 @@ Last Updated: 2026-08-06 13:52:08
 @-CodeyKoiKitty-: 10
 @TheTechnoArtist: 35
 @Dontmindme-123: 10
+<<<<<<< HEAD
 @GalacticFox_: 4
 @honeyraven: 10
 @Sunshine348: 20
@@ -147,3 +174,13 @@ Last Updated: 2026-08-06 13:52:08
 @thescratchwolf7: 22
 @TinyFrog_WC: 10
 @_MAPL3SHAD3_: 22
+=======
+@GalacticFox_: 10
+@honeyraven: 10
+@Sunshine348: 10
+@Songwishwarrior: 10
+@LeeOrio: 25
+@thescratchwolf7: 10
+@TinyFrog_WC: 10
+@_MAPL3SHAD3_: 10
+>>>>>>> 74936c9af9ffc73ebf4b8db0f80677486119864e
