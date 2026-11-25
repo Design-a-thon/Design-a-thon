@@ -107,7 +107,7 @@ for user in ticket_balance:
     final.append(line)
 
 # Add last updated timestamp
-time = datetime.now(ZoneInfo("America/Los_Angeles"))
+time = datetime.now(ZoneInfo("America/New_York"))
 formatted_time = time.strftime("%Y-%m-%d %H:%M:%S")
     
 with open('data/ticket_balance.txt', 'w') as f:
