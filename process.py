@@ -8,16 +8,14 @@ import json
 from datetime import datetime, UTC
 from zoneinfo import ZoneInfo
 
-url = "https://docs.google.com/spreadsheets/d/1h7Em7IrvPW-MqvnK3sl4wCrs4U98mpBP3LgxSTn2JME/export?format=csv&gid=371215680"
+url = "https://docs.google.com/spreadsheets/d/1jMsdB4HaBWjWi500dIrSt2CM8DEQkd6ApevQRR9FbZU/export?format=csv&gid=2011480512"
 df = pd.read_csv(url)
 
 event_df = df[df["What do you wish to submit a tracking for?"] == "Event Participation"]
 transaction_df = df[df["What do you wish to submit a tracking for?"] == "Shop Transaction"]
+daily_df = df[df["What do you wish to submit a tracking for?"] == "Daily Challenge Participation"]
 
 #Usernames
-# signups = pd.read_excel("data/Signups.xlsx")
-# usernames = signups['Username'].tolist()
-
 with open("data/signups.txt", "r") as file:
     lines = file.read().splitlines()
     usernames = [user for user in lines if user != ""]
@@ -38,10 +36,10 @@ def normalize_username(name: str) -> str:
         name = name[1:]
     return re.sub(r"[-_]+", "_", name.lower())
 
-def tally(row):
+def tally(row, event):
     name = row['What is your Scratch Username? (without the @)']
-    
-    #Account for wrong captialization
+
+    #Account for wrong capitalization
     if (name not in usernames):
         for user in usernames:
             if (normalize_username(name) == normalize_username(user)):
@@ -49,17 +47,15 @@ def tally(row):
 
     #Print out bad usernames
     if (name not in usernames):
-        bad_usernames.append(name)
-        print(name)
+        if event == "Event":
+            bad_usernames.append(name)
+            print(name)
         return
-
-    event_type = row["Which event are you submitting for?"]
-
-    if event_type == "Daily Participation":
-        ticket_balance[name] += 5
-    else:
+    
+    if event == "Event":
         ticket_balance[name] += 15
-
+    elif event == "Daily":
+        ticket_balance[name] += 5
 
 def transact(row):
     seller = row['What is your Scratch Username? (without the @)']
@@ -69,7 +65,7 @@ def transact(row):
     seller = seller.strip()
     buyer = buyer.strip()
 
-    #Account for wrong captialization
+    #Account for wrong capitalization
     if (buyer not in usernames):
         for user in usernames:
             normalized_buyer = normalize_username(buyer)
@@ -101,7 +97,8 @@ def transact(row):
     ticket_balance[buyer] -= amt
 
 
-event_df.apply(tally, axis=1)
+event_df.apply(lambda row: tally(row, "Event"), axis=1)
+daily_df.apply(lambda row: tally(row, "Daily"), axis=1)
 transaction_df.apply(transact, axis=1)
 
 final = []
