@@ -1,80 +1,32 @@
-async function loadLeaderboard() {
-  const res = await fetch("data/ticket_balance.json");
-  const data = await res.json();
+const menuButton = document.getElementById("menu-button");
+const menu = document.getElementById("menu");
 
-  const ticketBalance = data.ticket_balance;
-
-  let entries = Object.entries(ticketBalance).map(([user, ticket]) => ({
-      user,
-      ticket
-}));
-
-const table = document.getElementById("leaderboard");
-table.innerHTML = "";
-
-entries.forEach((entry) => {
-    const row = document.createElement("tr");
-    const username = entry.user.replace(/^@/, "");
-    row.dataset.user = username;
-
-    row.innerHTML = `
-      <td class="user">
-        <a href="https://scratch.mit.edu/users/${username}/"
-          target="_blank"
-          rel="noopener noreferrer">
-          ${entry.user}
-        </a>
-      </td>
-      <td class="ticket">${entry.ticket}</td>
-    `;
-
-    table.appendChild(row);
+menuButton.addEventListener("click", () => {
+    menu.classList.toggle("active");
 });
 
-document.getElementById("last-updated").textContent = 
-`Last updated: ${new Date(data.last_updated).toLocaleString()}`;
+const floatImg1 = document.getElementById("float-img1");
+const floatImg2 = document.getElementById("float-img2");
+const floatImg3 = document.getElementById("float-img3");
 
-}
+const images1 = [
+    "../assets/images/homepage/about/Website Float 1-1.jpg",
+    "../assets/images/homepage/about/Website Float 1-2.jpg"
+];
+const images2 = [
+    "../assets/images/homepage/about/Website Float 2-1.jpg",
+    "../assets/images/homepage/about/Website Float 2-2.jpg"
+];
+const images3 = [
+    "../assets/images/homepage/about/Website Float 3-1.jpg",
+    "../assets/images/homepage/about/Website Float 3-2.jpg"
+];
 
-async function goToUser() {
-    const input = document
-        .getElementById("user-search")
-        .value
-        .trim()
-        .replace(/^@/, "");
+let index = 0;
 
-    const row = document.querySelector(`tr[data-user="${input}"]`);
-
-    if (row) {
-        row.scrollIntoView({
-            behavior: "smooth",
-            block: "center"
-        });
-
-        row.classList.add("highlight");
-
-        setTimeout(() => {
-            row.classList.remove("highlight");
-        }, 1000);
-
-    } else {
-        alert("User not found in leaderboard. Note that the quick find feature is case sensitive. Please check the username and try again.");
-    }
-
-    document.getElementById("user-search").value = "";
-}
-
-document.getElementById("user-search").addEventListener("keydown", (event) => {
-    if (event.key === "Enter") {
-        goToUser();
-    }
-});
-
-function scrollToTop() {
-    window.scrollTo({
-        top: 0,
-        behavior: "smooth"
-    });
-}
-
-loadLeaderboard();
+setInterval(() => {
+    index = (index + 1) % images1.length;
+    floatImg1.src = images1[index];
+    floatImg2.src = images2[index];
+    floatImg3.src = images3[index];
+}, 1200);
